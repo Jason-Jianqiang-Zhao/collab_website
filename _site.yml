@@ -2,8 +2,8 @@ name: "ourwebsite"
 navbar: 
   title: "Our collaborative website"
   left:
-    - text: "Cars"
-      href: Class_5_Practice.html
+    - text: "Class_5_Practice"
+      href: Class_5.html
     - text: "About"
       href: about.html
 output_dir: "."
